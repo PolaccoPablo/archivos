@@ -1,10 +1,10 @@
 { "productosAlaventa":[
-    {"nombre":"Sahumerio_Botanico_JAZMÍN","precio" : 1500,"stock" : 20,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/botanico_jazmin.jpeg"},
-    {"nombre":"Sahumerio_Botanico_LAVANDA","precio" : 1500,"stock" : 20,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/botanico_lavanda.jpeg"},
-    {"nombre":"Sahumerio_Botanico_NARANJA","precio" : 1500,"stock" : 20,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/botanico_naranja.jpeg"},
-    {"nombre":"Sahumerio_Botanico_ROSAS","precio" : 1500,"stock" : 20,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/botanico_rosas.jpeg"},
-    {"nombre":"Sahumerio_Natural_INCIENSO","precio" : 2300,"stock" : 10,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/sagrada_incienso.jpeg"},
-    {"nombre":"Sahumerio__Hierbas_LAVANDA_Y_OLÍBANO","precio" : 2400,"stock" : 10,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/sagrada_lavanda.jpeg"},
-    {"nombre":"Sahumerio_PATAGONIA","precio" : 3000,"stock" : 5,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/sagrada_patagonia.jpeg"},
-    {"nombre":"Vela", "precio": 2500, "stock": 5, "img":"https://th.bing.com/th/id/R.7d0d29e22bb67318b2b1be51a87e70dd?rik=qONM05CiOVP8lw&pid=ImgRaw&r=0"},
-    {"nombre":"Perfume", "precio" : 3500, "stock" : 15, "img":"https://th.bing.com/th/id/OIP.KSDTn6ka-gAF-aIcgNAbzAHaJM?pid=ImgDet&rs=1"}]}
+    {"id":1,"categoria":"incienso", "nombre":"Sahumerio_Botanico_JAZMÍN","precio" : 1500,"stock" : 20,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/botanico_jazmin.jpeg"},
+    {"id":2,"categoria":"incienso","nombre":"Sahumerio_Botanico_LAVANDA","precio" : 1500,"stock" : 20,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/botanico_lavanda.jpeg"},
+    {"id":3,"categoria":"incienso","nombre":"Sahumerio_Botanico_NARANJA","precio" : 1500,"stock" : 20,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/botanico_naranja.jpeg"},
+    {"id":4,"categoria":"incienso","nombre":"Sahumerio_Botanico_ROSAS","precio" : 1500,"stock" : 20,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/botanico_rosas.jpeg"},
+    {"id":5,"categoria":"incienso","nombre":"Sahumerio_Natural_INCIENSO","precio" : 2300,"stock" : 10,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/sagrada_incienso.jpeg"},
+    {"id":6,"categoria":"incienso","nombre":"Sahumerio__Hierbas_LAVANDA_Y_OLÍBANO","precio" : 2400,"stock" : 10,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/sagrada_lavanda.jpeg"},
+    {"id":7,"categoria":"incienso","nombre":"Sahumerio_PATAGONIA","precio" : 3000,"stock" : 5,"img":"https://raw.githubusercontent.com/PolaccoPablo/PdL/main/imagenes/sagrada_patagonia.jpeg"},
+    {"id":8,"categoria":"vela","nombre":"Vela", "precio": 2500, "stock": 5, "img":"https://th.bing.com/th/id/R.7d0d29e22bb67318b2b1be51a87e70dd?rik=qONM05CiOVP8lw&pid=ImgRaw&r=0"},
+    {"id":9,"categoria":"fragancia","nombre":"Perfume", "precio" : 3500, "stock" : 15, "img":"https://th.bing.com/th/id/OIP.KSDTn6ka-gAF-aIcgNAbzAHaJM?pid=ImgDet&rs=1"}]}
